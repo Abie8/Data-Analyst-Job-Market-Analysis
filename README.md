@@ -15,5 +15,4 @@ This project analyzes the current job market trends for Data Analysts. Using a d
 * **Work Trend:** Remote roles ("Anywhere") are significantly more frequent than city-specific roles.
 * **Top Hubs:** The United States remains the leading market for these positions.
 
-## 📊 Visualizations
-![Top Skills Chart](skills_chart.png)
+![Visualizations](skills_chart.png)

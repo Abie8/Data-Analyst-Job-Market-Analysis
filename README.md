@@ -16,4 +16,4 @@ This project analyzes the current job market trends for Data Analysts. Using a d
 * **Top Hubs:** The United States remains the leading market for these positions.
 
 ## 📊 Visualizations
-![Top Skills Chart](link-to-your-saved-image.png)
+![Top Skills Chart](skills_chart.png)
